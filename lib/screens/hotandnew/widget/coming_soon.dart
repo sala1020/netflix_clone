@@ -1,4 +1,3 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:netflix/model/movie_model.dart';
 import 'package:netflix/screens/core/colors/colors.dart';

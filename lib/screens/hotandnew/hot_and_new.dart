@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:netflix/api/api.dart';
 import 'package:netflix/screens/core/colors/colors.dart';
 import 'package:netflix/screens/core/constants/constants.dart';
 import 'package:netflix/screens/home/homepage.dart';
